@@ -41,3 +41,38 @@ The overview Link takes you to see all the statistics of your store
 
 **12**
 The Settings Link takes you to manage your store data (you can change your store name or delete your store)
+
+**13**
+This application provides a robust and flexible API for managing various aspects of your business, including stores, billboards, categories, products, colors, and sizes. With this app, you can effortlessly perform CRUD (Create, Read, Update, Delete) operations on each of these entities, making it easy to manage and organize your data.
+
+Features:
+Store Management:
+Create: Add new store locations with relevant information.
+Read: Retrieve store details, including location, contact information, and operating hours.
+Update: Modify store information as needed, such as changing the address or phone number.
+Delete: Remove stores that are no longer operational.
+Billboard Management:
+Create: Define new billboards, specifying their location and advertising details.
+Read: Retrieve billboard information, including ad campaigns and placement.
+Update: Edit billboard details, like changing the ad content or schedule.
+Delete: Deactivate billboards when they are no longer in use.
+Category Management:
+Create: Establish product categories to classify your inventory.
+Read: Access category information, including names and descriptions.
+Update: Modify category details, such as renaming or updating descriptions.
+Delete: Remove categories that are no longer relevant.
+Product Management:
+Create: Add new products to your inventory, including their name, price, and description.
+Read: Retrieve product details, such as pricing and availability.
+Update: Edit product information, like changing the price or description.
+Delete: Remove products that are discontinued or out of stock.
+Color Management:
+Create: Define a range of colors available for your products.
+Read: Access color information, including names and codes.
+Update: Modify color details, such as changing color names or codes.
+Delete: Remove colors that are no longer used.
+Size Management:
+Create: Establish different sizes for your products.
+Read: Retrieve size information, including names and measurements.
+Update: Edit size details, like adjusting measurements or size names.
+Delete: Remove sizes that are no longer relevant.
