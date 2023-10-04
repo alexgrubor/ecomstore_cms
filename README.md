@@ -1,7 +1,7 @@
-
-<svg>
-  <foreignObject x="0" y="0" width="100%" height="100%">
-   <iframe src="https://scribehow.com/embed/Adding_a_new_product_to_an_online_store__FEs4DvKwRkawmykueYRAxQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
-  </foreignObject>
-</svg>
-
+##How Store CMS Works
+This guide provides step-by-step instructions on how to use the Store CMS. It covers
+everything from signing in, creating a store, adding billboards, managing categories
+and products, creating sizes and colors, and viewing store statistics. The guide also
+highlights the app's responsive design, theme switcher, and user account
+management features. It is a comprehensive resource for anyone looking to
+effectively utilize the Store CMS platform
