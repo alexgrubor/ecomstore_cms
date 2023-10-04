@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**How Store CMS Works**
+This guide provides step-by-step instructions on how to use the Store CMS. It covers
+everything from signing in, creating a store, adding billboards, managing categories
+and products, creating sizes and colors, and viewing store statistics. The guide 
+highlights the app's responsive design, theme switcher, and user account
+management features. It is a comprehensive resource for anyone looking to utilize the Store CMS platform effectively.
 
-## Getting Started
+**1**
+Navigate to
+**http://localhost:3000/**
 
-First, run the development server:
+**2**
+You will get a popup to sign in. If you don't have an account, please go to: No account? Sign up
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**3**
+SIng in and you will see the dashboards with your store (If you still do not have a store you will have a pop-up to create a store).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**4**
+Click on Store Switcher if you want to select another store or create a new store.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**5**
+When you want to add billboards to your store or manage existing ones, click on Billboards.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**6**
+To add a new Billboard Click the "Add New" Button and fill out the fields (all of them are required and the label stands for a billboard name and the image stands for the background image of your billboard)
 
-## Learn More
+**7**
+Click "Categories" to see or add your categories
 
-To learn more about Next.js, take a look at the following resources:
+**8**
+To add a new Category Click the "Add New" Button and fill out the fields (all of them are required);
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**9**
+To manage or add new Sizes, Colors click on that Link (if you want to add some of those things, fill all fields, all are required and in color value needs to be hex code (ex.#000))
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**10**
+To add a new Product Click the "Add New" Button and fill out the fields (all of them are required);
 
-## Deploy on Vercel
+**11**
+The overview Link takes you to see all the statistics of your store
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**12**
+The Settings Link takes you to manage your store data (you can change your store name or delete your store)
